@@ -2,6 +2,8 @@
 
 **Ponto Verde** é uma iniciativa de alunos da EACH-USP para conscientizar sobre o **descarte correto de lixo eletrônico** e divulgar **pontos de coleta**, principalmente na cidade de São Paulo.
 
+🔗 **Site no ar:** https://nicolas-j-santos.github.io/ponto-verde/
+
 O projeto nasceu na disciplina de **Resolução de Problemas** (EACH-USP, 2024), a partir da pesquisa *"A normalização da obsolescência programada e seus impactos no meio ambiente"*, orientada pela Profa. Claudia Ines Garcia.
 
 ## Por que isso importa
@@ -33,7 +35,7 @@ O site é só HTML e CSS, então não precisa instalar nada:
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/<usuario>/ponto-verde.git
+   git clone https://github.com/Nicolas-J-Santos/ponto-verde.git
    ```
 2. Abra o `index.html` no navegador.
 
